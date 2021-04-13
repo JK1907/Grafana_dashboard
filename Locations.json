@@ -2,20 +2,20 @@
   
   {
     "key": "hohenwiesenweg",
-    "latitude": 47.110924,
-    "longitude": 8.682127,
+    "latitude": 48.89707759410223, 
+    "longitude": 8.723222420329499,
     "name": "Hohenwiesenweg"
   },
   {
     "key": "gehweg",
-    "latitude": 35.652832,
-    "longitude": 139.839478,
+    "latitude": 48.89695151649877,
+    "longitude": 8.722531080957019,
     "name": "gehweg"
   },
   {
     "key": "mittelstreifen",
-    "latitude": 35.652832,
-    "longitude": 139.839478,
+    "latitude": 48.897029543583045,
+    "longitude": 8.722449944134851,
     "name": "Mittelstreifen"
   },
   {
