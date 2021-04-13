@@ -1,15 +1,27 @@
 [
   
   {
-    "key": "rankfurt",
+    "key": "hohenwiesenweg",
     "latitude": 47.110924,
     "longitude": 8.682127,
-    "name": "Frankfurt"
+    "name": "Hohenwiesenweg"
+  },
+  {
+    "key": "gehweg",
+    "latitude": 35.652832,
+    "longitude": 139.839478,
+    "name": "gehweg"
+  },
+  {
+    "key": "mittelstreifen",
+    "latitude": 35.652832,
+    "longitude": 139.839478,
+    "name": "Mittelstreifen"
   },
   {
     "key": "tokyo",
     "latitude": 35.652832,
     "longitude": 139.839478,
-    "name": "Tokyo"
+    "name": "Toooookyo"
   }
 ]
