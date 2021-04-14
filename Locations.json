@@ -10,18 +10,12 @@
     "key": "gehweg",
     "latitude": 48.89695151649877,
     "longitude": 8.722531080957019,
-    "name": "gehweg"
+    "name": "Gehweg"
   },
   {
     "key": "mittelstreifen",
     "latitude": 48.897029543583045,
     "longitude": 8.722449944134851,
     "name": "Mittelstreifen"
-  },
-  {
-    "key": "tokyo",
-    "latitude": 35.652832,
-    "longitude": 139.839478,
-    "name": "Toooookyo"
   }
 ]
