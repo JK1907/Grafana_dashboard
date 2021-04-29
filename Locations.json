@@ -1,21 +1,21 @@
 [
   
   {
-    "key": "hohenwiesenweg",
+    "key": "hohwiesenweg",
     "latitude": 48.89707759410223, 
     "longitude": 8.723222420329499,
-    "name": "Hohenwiesenweg"
+    "name": "Hohwiesenweg"
   },
   {
     "key": "gehweg",
     "latitude": 48.89695151649877,
     "longitude": 8.722531080957019,
-    "name": "Gehweg"
+    "name": "Eutinger Straße Gehweg"
   },
   {
     "key": "mittelstreifen",
     "latitude": 48.897029543583045,
     "longitude": 8.722449944134851,
-    "name": "Mittelstreifen"
+    "name": "Eutinger Straße Mittelstreifen"
   }
 ]
