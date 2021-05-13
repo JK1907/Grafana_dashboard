@@ -13,6 +13,12 @@
     "name": "Eutinger Straße Gehweg"
   },
   {
+    "key": "leopoldplatz",
+    "latitude": 48.89264071658326, 
+    "longitude": 8.696854628965841,
+    "name": "Leopoldplatz"
+  },
+  {
     "key": "mittelstreifen",
     "latitude": 48.897029543583045,
     "longitude": 8.722449944134851,
